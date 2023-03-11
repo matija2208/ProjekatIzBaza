@@ -1,0 +1,15 @@
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Tabela.resources
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Prikazi.resources
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Dodaj.resources
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DodajKategoriju.resources
+C:\Users\matij\Desktop\cipovi\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DodajPodkategoriju.resources
